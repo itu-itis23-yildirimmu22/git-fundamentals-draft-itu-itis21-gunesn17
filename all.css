@@ -16,3 +16,39 @@ em {
 ul {
 	list-style-type: square;
 }
+
+em {
+	font-style: normal;
+	color:green;
+	background-color:lightgrey;
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: square;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+li:first-child {
+	border: thick solid green;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding: 1ex;
+	width: 40%;
+}
+
+p.centered {
+	text-indent: 3mm;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	border: thick solid red;
+	text-decoration: none;
+	padding: 1ex;
+	width: 50%;
+}
