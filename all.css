@@ -16,13 +16,12 @@ em {
 	font-weight: bold;
 }
 
-
 ul {
 	list-style-type: square;
 }
 
 a:hover {
-	text-decoration: none;	
+	text-decoration: none;
 }
 
 li:first-child {
@@ -38,3 +37,14 @@ p.centered {
 	width: 50%;
 }
 
+.navigation-bar {
+	overflow: hidden;
+	background-color: black;
+ }
+
+.navigation-bar a {
+	color: white;
+	text-decoration: none;
+	padding:14px 16px;
+	float: left;
+ }
