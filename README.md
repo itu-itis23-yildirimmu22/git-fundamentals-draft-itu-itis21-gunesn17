@@ -1,6 +1,5 @@
-# :wave: The Basics of GitHub [UPDATED LOCALLY PUSHED REMOTELY BY NEŞE GÜNEŞ, 504192513] 25.10.2021, 11:05
+# :wave: The Basics of GitHub [MODIFIED BY MUSTAFA TALHA YILDIRIM, 150220008] 19.10.2023
 
-[MODIFIED BY NEŞE GÜNEŞ, 504192513] 18.10.2021
 
 ## 🤓 Course overview and learning outcomes 
 
